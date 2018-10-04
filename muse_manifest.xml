@@ -1,0 +1,183 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mariarodriguez.com" resolutions="1x" timestamp="1538685897368">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="49382814" ref="diseño-gráfico:imagen-corporativa:fotografía:diseño-de-stands:diseño-editorial:páginas-web:diseño-publicitario:index"/>
+    <file name="dise_o-gr_fico.css" crc="3811969733" ref="diseño-gráfico"/>
+    <file name="imagen-corporativa.css" crc="3981382395" ref="imagen-corporativa"/>
+    <file name="fotograf_a.css" crc="403493265" ref="fotografía"/>
+    <file name="dise_o-de-stands.css" crc="3896065480" ref="diseño-de-stands"/>
+    <file name="dise_o-editorial.css" crc="3793227446" ref="diseño-editorial"/>
+    <file name="p_ginas-web.css" crc="403897882" ref="páginas-web"/>
+    <file name="dise_o-publicitario.css" crc="3851568353" ref="diseño-publicitario"/>
+    <file name="index.css" crc="4109365351" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="foto.png" crc="4031636345" seo="true" mt="1533149401000"/>
+    <file name="foto-2.png" crc="4036549151" seo="true" mt="1533149421000"/>
+    <file name="para-corregir.jpg" crc="3850019539" seo="true" mt="1527081199000"/>
+    <file name="para-corregir-maria-final.jpg" crc="114035442" seo="true" mt="1527081199000"/>
+    <file name="invitacion-final-01.jpg" crc="4275917619" seo="true" mt="1530841225000"/>
+    <file name="vinil-1.1-01.jpg" crc="116176714" seo="true" mt="1527911717000"/>
+    <file name="flyer-presentacion-procomsa-01.jpg" crc="4225468748" seo="true" mt="1525233627000"/>
+    <file name="propuesta-2-01.jpg" crc="4024990866" seo="true" mt="1527697361000"/>
+    <file name="_mg_1761.cr2" crc="3937428048" seo="true" mt="1509469914000"/>
+    <file name="attire.mp4" crc="3857965989" seo="true" mt="1525233466000"/>
+    <file name="_mg_1794.jpg" crc="323956104" seo="true" mt="1510548386000"/>
+    <file name="_mg_1842.jpg" crc="4007823641" seo="true" mt="1510539204000"/>
+    <file name="_mg_1784.jpg" crc="3944105939" seo="true" mt="1510539166000"/>
+    <file name="_mg_1846.jpg" crc="48888621" seo="true" mt="1510550442000"/>
+    <file name="archivo-de-torre.jpg" crc="149684109" seo="true" mt="1533674061000"/>
+    <file name="24883424_1992034624144713_1182944087878575252_o.jpg" crc="3954470275" seo="true" mt="1533669523000"/>
+    <file name="video-maria-terminado.mp4" crc="4246541870" seo="true" mt="1525233493000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:diseño-gráfico:páginas-web:diseño-de-stands"/>
+    <file name="museutils.js" crc="163421577" ref="index:diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:diseño-gráfico:páginas-web:diseño-de-stands"/>
+    <file name="whatinput.js" crc="86476730" ref="index:diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:diseño-gráfico:páginas-web:diseño-de-stands"/>
+    <file name="museconfig.js" crc="36584860" ref="index:diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:diseño-gráfico:páginas-web:diseño-de-stands"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:diseño-gráfico:páginas-web:diseño-de-stands"/>
+    <file name="require.js" crc="244322403" ref="index:diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:diseño-gráfico:páginas-web:diseño-de-stands"/>
+    <file name="webpro.js" crc="3848665353" ref="diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:páginas-web"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:páginas-web"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:páginas-web"/>
+    <file name="touchswipe.js" crc="404375771" ref="diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:páginas-web"/>
+  </folder>
+  <folder name="images">
+    <file name="5537.jpg" crc="4167766791" ref="index:diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:diseño-gráfico:páginas-web:diseño-de-stands"/>
+    <file name="u254-4.png" crc="4157776124" ref="index:diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:diseño-gráfico:páginas-web:diseño-de-stands"/>
+    <file name="_mg_1794-crop-u2026.jpg" crc="471056461" ref="index"/>
+    <file name="prueba pr-crop-u1211.jpg" crc="166113191" ref="index"/>
+    <file name="img_9591-crop-u1527.jpg" crc="3978355787" ref="index"/>
+    <file name="escuela sermusic-01-crop-u1607.jpg" crc="32007270" ref="index"/>
+    <file name="señaletica-crop-u1787.jpg" crc="3838275249" ref="index"/>
+    <file name="12-01-crop-u1166.jpg" crc="393910185" ref="index"/>
+    <file name="mg digital-crop-u1133.png" crc="4270182017" ref="index"/>
+    <file name="u239-4.png" crc="3770690649" ref="index:diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:diseño-gráfico:páginas-web:diseño-de-stands"/>
+    <file name="logo final png-crop-u125.png" crc="264818989" ref="index"/>
+    <file name="u2749-4.png" crc="4047070852" ref="diseño-editorial"/>
+    <file name="u2746-4.png" crc="334513926" ref="diseño-editorial"/>
+    <file name="u2948-4.png" crc="12218661" ref="diseño-editorial"/>
+    <file name="u3292-4.png" crc="3859733859" ref="diseño-editorial"/>
+    <file name="u2951-4.png" crc="46002967" ref="diseño-editorial"/>
+    <file name="u3288-4.png" crc="3861540576" ref="diseño-editorial"/>
+    <file name="u2768-7.png" crc="3796411196" ref="diseño-editorial"/>
+    <file name="u2945-7.png" crc="4167952278" ref="diseño-editorial"/>
+    <file name="u3296-9.png" crc="3833518139" ref="diseño-editorial"/>
+    <file name="nuevo1.jpg" crc="193565595" seo="true" ref="diseño-editorial"/>
+    <file name="blank.gif" crc="4208392903" ref="diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:páginas-web"/>
+    <file name="nuevo2.jpg" crc="427110675" seo="true" ref="diseño-editorial"/>
+    <file name="nuevo3.jpg" crc="4012141649" seo="true" ref="diseño-editorial"/>
+    <file name="nuevo4.jpg" crc="4242828077" seo="true" ref="diseño-editorial"/>
+    <file name="nuevo5.jpg" crc="4017190873" seo="true" ref="diseño-editorial"/>
+    <file name="nuevo6.jpg" crc="530746028" seo="true" ref="diseño-editorial"/>
+    <file name="nuevo7.jpg" crc="256297759" seo="true" ref="diseño-editorial"/>
+    <file name="loading.gif" crc="3815509949" ref="diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:páginas-web"/>
+    <file name="logo final png.png" crc="51189626" seo="true" ref="diseño-editorial:diseño-publicitario:imagen-corporativa:fotografía:diseño-gráfico:páginas-web:diseño-de-stands"/>
+    <file name="rece1.jpg" crc="102843515" seo="true" ref="diseño-editorial"/>
+    <file name="rece2.jpg" crc="38947292" seo="true" ref="diseño-editorial"/>
+    <file name="rece3.jpg" crc="3969995019" seo="true" ref="diseño-editorial"/>
+    <file name="rece4.jpg" crc="3848872647" seo="true" ref="diseño-editorial"/>
+    <file name="rece 5.jpg" crc="4164044019" seo="true" ref="diseño-editorial"/>
+    <file name="rece6.jpg" crc="50458190" seo="true" ref="diseño-editorial"/>
+    <file name="prueba 2.jpg" crc="525040446" seo="true" ref="diseño-editorial"/>
+    <file name="imagen 3.jpg" crc="3782697177" seo="true" ref="diseño-editorial"/>
+    <file name="revista1.jpg" crc="412974982" seo="true" ref="diseño-editorial"/>
+    <file name="imagen 5.jpg" crc="3813946419" seo="true" ref="diseño-editorial"/>
+    <file name="imagen 2.jpg" crc="4218414634" seo="true" ref="diseño-editorial"/>
+    <file name="byn4.jpg" crc="3940427265" seo="true" ref="diseño-publicitario"/>
+    <file name="boxlunch final-01-crop-u6371.jpg" crc="158193923" ref="diseño-publicitario"/>
+    <file name="día del niño-01.jpg" crc="4023958636" seo="true" ref="diseño-publicitario"/>
+    <file name="u6381-4.png" crc="490339803" ref="diseño-publicitario"/>
+    <file name="u6432-4.png" crc="459804377" ref="diseño-publicitario"/>
+    <file name="u6513-4.png" crc="95839715" ref="diseño-publicitario"/>
+    <file name="u6382-4.png" crc="3902080216" ref="diseño-publicitario"/>
+    <file name="u6435-4.png" crc="3995117061" ref="diseño-publicitario"/>
+    <file name="u6510-4.png" crc="4163818105" ref="diseño-publicitario"/>
+    <file name="u6384-4.png" crc="4012216092" ref="diseño-publicitario"/>
+    <file name="u6429-4.png" crc="303674555" ref="diseño-publicitario"/>
+    <file name="u6691-4.png" crc="3923497391" ref="diseño-publicitario"/>
+    <file name="portada facebook buen fin-01.jpg" crc="399006285" seo="true" ref="diseño-publicitario"/>
+    <file name="febrero 24 día de la bandera-crop-u6470.jpg" crc="3809707214" ref="diseño-publicitario"/>
+    <file name="45grados-01.jpg" crc="3813492196" seo="true" ref="diseño-publicitario"/>
+    <file name="tan cuts-01.jpg" crc="4227354968" seo="true" ref="diseño-publicitario"/>
+    <file name="vectores y siluetas-01.jpg" crc="126351892" seo="true" ref="diseño-publicitario"/>
+    <file name="u7348-4.png" crc="294520155" ref="imagen-corporativa"/>
+    <file name="u7372-4.png" crc="333666524" ref="imagen-corporativa"/>
+    <file name="u7352-4.png" crc="4038136699" ref="imagen-corporativa"/>
+    <file name="u7368-4.png" crc="372629522" ref="imagen-corporativa"/>
+    <file name="kume 1.jpg" crc="4252734937" seo="true" ref="imagen-corporativa"/>
+    <file name="kume2.jpg" crc="3977740053" seo="true" ref="imagen-corporativa"/>
+    <file name="kume3.jpg" crc="4109722219" seo="true" ref="imagen-corporativa"/>
+    <file name="kume4.jpg" crc="260534474" seo="true" ref="imagen-corporativa"/>
+    <file name="kume5.jpg" crc="4165384192" seo="true" ref="imagen-corporativa"/>
+    <file name="seña2.jpg" crc="142709736" seo="true" ref="imagen-corporativa"/>
+    <file name="seña3.jpg" crc="334483042" seo="true" ref="imagen-corporativa"/>
+    <file name="seña4.jpg" crc="4156694748" seo="true" ref="imagen-corporativa"/>
+    <file name="seña5.jpg" crc="3902962907" seo="true" ref="imagen-corporativa"/>
+    <file name="seña6.jpg" crc="307756337" seo="true" ref="imagen-corporativa"/>
+    <file name="seña7.jpg" crc="4265796347" seo="true" ref="imagen-corporativa"/>
+    <file name="u6490-4.png" crc="4252054900" ref="imagen-corporativa"/>
+    <file name="u7385-4.png" crc="4184705129" ref="imagen-corporativa"/>
+    <file name="u7559-4.png" crc="3866394738" ref="imagen-corporativa"/>
+    <file name="u6491-4.png" crc="343129274" ref="imagen-corporativa"/>
+    <file name="u7381-4.png" crc="4256226564" ref="imagen-corporativa"/>
+    <file name="u7563-4.png" crc="216564421" ref="imagen-corporativa"/>
+    <file name="frente final-01.jpg" crc="4290636893" seo="true" ref="imagen-corporativa"/>
+    <file name="final detras.jpg" crc="233671165" seo="true" ref="imagen-corporativa"/>
+    <file name="nueva hoja membretada-01.png" crc="3766259637" seo="true" ref="imagen-corporativa"/>
+    <file name="hm.jpg" crc="3855374717" seo="true" ref="imagen-corporativa"/>
+    <file name="hmds.jpg" crc="4067530166" seo="true" ref="imagen-corporativa"/>
+    <file name="mr.jpg" crc="3932943297" seo="true" ref="imagen-corporativa"/>
+    <file name="logo dcris-01.jpg" crc="278805034" seo="true" ref="imagen-corporativa"/>
+    <file name="mg-crop-u7813.jpg" crc="443919205" ref="imagen-corporativa"/>
+    <file name="img_5854.jpg" crc="3898972377" seo="true" ref="fotografía"/>
+    <file name="img_9591-crop-u3983.jpg" crc="58073889" ref="fotografía"/>
+    <file name="img_6154.jpg" crc="290571353" seo="true" ref="fotografía"/>
+    <file name="img_6417.jpg" crc="4243072882" seo="true" ref="fotografía"/>
+    <file name="img_3753.jpg" crc="364674260" seo="true" ref="fotografía"/>
+    <file name="u4557-4.png" crc="3949680522" ref="fotografía"/>
+    <file name="img_6214.jpg" crc="535791610" seo="true" ref="fotografía"/>
+    <file name="img_6074.jpg" crc="3993968773" seo="true" ref="fotografía"/>
+    <file name="img_6065.jpg" crc="4215098194" seo="true" ref="fotografía"/>
+    <file name="img_0592.jpg" crc="3857162998" seo="true" ref="fotografía"/>
+    <file name="u4528-4.png" crc="87902959" ref="fotografía"/>
+    <file name="u4532-4.png" crc="3853464909" ref="fotografía"/>
+    <file name="u4586-4.png" crc="114196230" ref="fotografía"/>
+    <file name="u4587-4.png" crc="412100355" ref="fotografía"/>
+    <file name="u4589-4.png" crc="3915179958" ref="fotografía"/>
+    <file name="u3549-4.png" crc="3984411133" ref="fotografía"/>
+    <file name="u3550-4.png" crc="4210313142" ref="fotografía"/>
+    <file name="u3552-4.png" crc="384770378" ref="fotografía"/>
+    <file name="u4553-4.png" crc="128755987" ref="fotografía"/>
+    <file name="u4540-4.png" crc="98934177" ref="fotografía"/>
+    <file name="u3564-4.png" crc="49123218" ref="fotografía"/>
+    <file name="mg digital-crop-u4774.png" crc="3979864170" ref="páginas-web"/>
+    <file name="nueva para pag.jpg" crc="32111340" seo="true" ref="páginas-web"/>
+    <file name="u4882-4.png" crc="3911121050" ref="páginas-web"/>
+    <file name="u4897-4.png" crc="428191958" ref="páginas-web"/>
+    <file name="u4883-4.png" crc="464355721" ref="páginas-web"/>
+    <file name="u4903-4.png" crc="152536548" ref="páginas-web"/>
+    <file name="u4885-4.png" crc="469998961" ref="páginas-web"/>
+    <file name="u4894-6.png" crc="393343149" ref="páginas-web"/>
+    <file name="iconos para pag web-crop-u4928.jpg" crc="139722819" ref="páginas-web"/>
+    <file name="iconos 2-crop-u6214.jpg" crc="3941329602" ref="páginas-web"/>
+    <file name="diseño web.jpg" crc="388940062" seo="true" ref="páginas-web"/>
+    <file name="iconos 4.jpg" crc="4105973398" seo="true" ref="páginas-web"/>
+    <file name="u5985-4.png" crc="37260245" ref="diseño-de-stands"/>
+    <file name="u5982-4.png" crc="4124593800" ref="diseño-de-stands"/>
+    <file name="u5983-4.png" crc="493650060" ref="diseño-de-stands"/>
+    <file name="u6000-4.png" crc="4063507613" ref="diseño-de-stands"/>
+    <file name="u5997-4.png" crc="133544668" ref="diseño-de-stands"/>
+    <file name="u6003-4.png" crc="4157353482" ref="diseño-de-stands"/>
+    <file name="24796519_1993646667626278_4289798576835306778_n.jpg" crc="483451949" seo="true" ref="diseño-de-stands"/>
+    <file name="señalizacion1.png" crc="4277693900" seo="true" ref="imagen-corporativa"/>
+  </folder>
+  <file name="index.html" crc="4171050990" seo="true" mt="1533829814186" redirect="true"/>
+  <file name="diseño-editorial.html" crc="96606273" seo="true" mt="1533779126179" redirect="true"/>
+  <file name="diseño-publicitario.html" crc="3982115254" seo="true" mt="1533783550884" redirect="true"/>
+  <file name="imagen-corporativa.html" crc="53010182" seo="true" mt="1533829678001" redirect="true"/>
+  <file name="fotografía.html" crc="61377766" seo="true" mt="1533779204243" redirect="true"/>
+  <file name="diseño-gráfico.html" crc="4165697419" seo="true" mt="1533780427577" redirect="true"/>
+  <file name="páginas-web.html" crc="252425796" seo="true" mt="1533781167864" redirect="true"/>
+  <file name="diseño-de-stands.html" crc="4104811438" seo="true" mt="1533781497283" redirect="true"/>
+</manifest>
